@@ -6,7 +6,7 @@ manage MySQL databases. I have the ability to work independently or in a team an
 best results in every project I work on.
 
 - 🌱 I’m currently learning about cloud technology for back-end apps
-- ⚡ Fun fact: No Life
+- ⚡ Sad fact: No Life
 
 ### Tech Stack
   <a href="#"><img align="left" alt="PHP" title="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png?20160423214552" /></a>
