@@ -5,16 +5,22 @@ language and the Laravel framework. I also have some skills using javascript. In
 manage MySQL databases. I have the ability to work independently or in a team and always try to give the 
 best results in every project I work on.
 
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- ⚡ Sad fact: No Life
+- 🌱 I’m currently learning about data analyst and back-end
 
-### Tech Stack
-  <a href="#"><img align="left" alt="PHP" title="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png?20160423214552" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="laravel" title="laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="mysql" title="mysql" width="35px" src="https://upload.wikimedia.org/wikipedia/id/thumb/a/a9/MySQL.png/300px-MySQL.png" /></a>
-  <br>
-  <br>
+### 🧩 Tech Stack
+
+<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
+<a href="#"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></a>
+<a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+<a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="#"><img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<a href="#"><img align="left" alt="Spring Boot" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
+<a href="#"><img align="left" alt="Excel" title="Excel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>
+
+<br>
+<br>
+
   
 ### Github Statistic
 <p align="left">
